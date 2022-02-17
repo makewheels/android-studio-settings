@@ -4,11 +4,12 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="8ea62d646873" />
+            <type value="DOMAIN_NAME" />
+            <value value="adb-d8c57c7b-UsWw3W._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <name value="Xiaomi 2201116SC" />
+        <lastOnlineTime value="2022-02-17T02:29:36.890010900Z" />
+        <name value="OnePlus LE2110" />
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
