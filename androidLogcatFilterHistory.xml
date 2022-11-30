@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine level:ERROR " />
-        <option value="E" />
         <option value="package:mine" />
+        <option value="E" />
       </list>
     </option>
   </component>
