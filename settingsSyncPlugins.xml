@@ -2,72 +2,17 @@
   <component name="SettingsSyncPlugins">
     <option name="plugins">
       <map>
-        <entry key="Batch Scripts Support">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="DBN">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="IdeaVIM">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="Statistic">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.intellij.marketplace">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="com.thoughtworks.gauge">
+        <entry key="Lombook Plugin">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.java" />
-                  <option value="com.intellij.modules.json" />
-                  <option value="com.intellij.properties" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
